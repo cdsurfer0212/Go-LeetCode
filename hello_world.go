@@ -50,6 +50,8 @@ func main() {
 	_ = array1
 	var array2 = []int{0, 1, 2, 3, 4}
 	_ = array2
+	var array3 = [][]int{{1}, {1, 1}, {1, 2, 1}, {1, 3, 3, 1}, {1, 4, 6, 4, 1}}
+	_ = array3
 
 	for i := range array {
 		_ = i
