@@ -1,10 +1,9 @@
 package mergeTwoSortedLists
 
 import (
+	"leetCode/utils"
 	"reflect"
 	"testing"
-
-	"../utils"
 )
 
 func Test_mergeTwoLists(t *testing.T) {

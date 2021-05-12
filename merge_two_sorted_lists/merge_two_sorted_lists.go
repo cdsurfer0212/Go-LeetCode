@@ -1,6 +1,6 @@
 package mergeTwoSortedLists
 
-import "../utils"
+import "leetCode/utils"
 
 func mergeTwoLists(l1 *utils.ListNode, l2 *utils.ListNode) *utils.ListNode {
 	if l1 == nil {
