@@ -1,4 +1,4 @@
-package mergesortedarray
+package mergeSortedArray
 
 import (
 	"testing"

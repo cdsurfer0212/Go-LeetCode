@@ -1,4 +1,4 @@
-package pascalstriangle
+package pascalsTriangle
 
 import "math"
 
